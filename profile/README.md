@@ -1,4 +1,5 @@
-![코어다트랩_로고 1](https://github.com/jewerlykim/jewel-blog/assets/75651834/21650380-f8a6-4f69-9bf2-05fb5110eeef)
+![코어다트랩_로고 1](https://github.com/CoredotLab/bifrost_validator/assets/141917797/a7bc4a65-f854-4256-9e4d-551547cd1dc7)
+
 
 ## Who We Are
 CoreDot Lab is a technology company with a strong belief in the transformative power of Web3.0 technology. Founded in 2022, we've been actively involved in various Web3 projects that aim to bring meaningful impact to the world.
